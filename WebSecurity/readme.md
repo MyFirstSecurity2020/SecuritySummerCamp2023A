@@ -13,6 +13,8 @@
 - OWASP TOP 10:2021 (可以介紹幾個比較好學習的)
 - [HOTCON ZERO day](https://zeroday.hitcon.org/)
 - SQL injection attack(sqli attack)
+  - 課程示範解題: THY_WEB101_CTF| web_5 
+  - 作業: THY_WEB201_CTF| web_11 
 - error-based sqli attack
 - 更多類型sqli attack
 - command injection attack
