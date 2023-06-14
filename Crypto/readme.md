@@ -15,6 +15,7 @@
     - Twin Primes attack
     - Common Modulus Attacks
     - Wiener's Attack
+    - Coppersmith's attack
     - ..........
 - 現代密碼學之`對稱式密碼Symmetric encryption`(如果太深可以不講此部分)
   - Block Ciphers VS  Stream Ciphers
