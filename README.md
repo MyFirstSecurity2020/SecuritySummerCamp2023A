@@ -1,4 +1,8 @@
 # SecuritySummerCamp2023A
+## 課程內容說明範本
+- DEf CON [DEf CON training]()
+- HITCON TRAINING [台灣駭客年會 HITCON Training 2023](https://hitcon.kktix.cc/events/hitcon-training-2023)
+- 恆逸 [EC-Council CEH駭客技術專家認證課程](https://www.uuu.com.tw/Course/Show/300/EC-Council-CEH-7-%E9%A7%AD%E5%AE%A2%E6%8A%80%E8%A1%93%E5%B0%88%E5%AE%B6%E8%AA%8D%E8%AD%89%E8%AA%B2%E7%A8%8B)
 ## 課程時間
 | 地點 | 7/18(二) | 7/19(三) | 7/21(五) | 
 | ----- | ----- | ----- | ----- |
