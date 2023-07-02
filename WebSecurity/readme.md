@@ -12,12 +12,14 @@
 - OWASP TOP 10:2021
   - 權限控制失效 Boken Access Control
     - IDOR
+        - 課程示範解題: THY_WEB101_CTF| web_5 
+        - 作業: THY_WEB201_CTF| web_11 
   - 注入式攻擊 Injection
-    - Command Injection
+    - 指令注入攻擊 Command Injection
       - Backend Introduction & Application
       - Linux Command
       - Windows Command
-    - Relational SQL Injection
+    - 關聯式資料查詢語法注入攻擊 Relational SQL Injection
       - Relational Server Query Language
       - Relational DataBase Management System
       - In-band SQLi
@@ -27,8 +29,9 @@
       - Boolean-Based SQLi
       - Union-Based SQLi
       - Time-Based SQLi
-    - Server Side Template Injection
+    - 伺服端後端模板注入攻擊 Server Side Template Injection
       - Python Flask
+      - Python Module Tricks
   
 
 ## 課程主題(Example)
@@ -39,9 +42,8 @@
 - SQL injection attack(sqli attack)
   - 課程示範解題: THY_WEB101_CTF| web_5 
   - 作業: THY_WEB201_CTF| web_11 
-- error-based sqli attack
-- 更多類型sqli attack
-- command injection attack
+
+
 - XSS(JAVAScript injection)
 - File Inclusion Vulnerabilities and  File inclusion attack
 - File upload vulnerabilities
