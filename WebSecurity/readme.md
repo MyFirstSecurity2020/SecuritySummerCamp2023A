@@ -8,9 +8,33 @@
 ## 測試環境下載
 - 為便於學習,本課程提供測試環境下載
 
-## 課程主題(請講師自行修改)
+## 課程主題 語宸 (等待合併中...)
+- OWASP TOP 10:2021
+  - 權限控制失效 Boken Access Control
+    - IDOR
+  - 注入式攻擊 Injection
+    - Command Injection
+      - Backend Introduction & Application
+      - Linux Command
+      - Windows Command
+    - Relational SQL Injection
+      - Relational Server Query Language
+      - Relational DataBase Management System
+      - In-band SQLi
+        - String
+        - Numeric
+      - Error-Based SQLi
+      - Boolean-Based SQLi
+      - Union-Based SQLi
+      - Time-Based SQLi
+    - Server Side Template Injection
+      - Python Flask
+  
+
+## 課程主題(Example)
 - 網站應用程式
-- OWASP TOP 10:2021 (可以介紹幾個比較好學習的)
+
+
 - [HOTCON ZERO day](https://zeroday.hitcon.org/)
 - SQL injection attack(sqli attack)
   - 課程示範解題: THY_WEB101_CTF| web_5 
