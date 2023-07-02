@@ -45,44 +45,49 @@
 ---
 
 ## 周佑康/Crypto 密碼學
-### 課程說明(請講師自行修改)
+### 課程說明
 - 本課程將針對現代密碼學進行破密分析
 - 對於古典密碼學不熟悉的同學
-  - 可以參加 SecurityFoscusOnline2023課程
   - 可以參照自行學習 [MyFirstSecurity資安入門的第一堂課|古典密碼學之破密分析](https://github.com/MyFirstSecurity2020/20230301)
 
-###  課程主題(請講師自行修改)
-- 密碼基本觀念
-- 現代密碼學之`非對稱式密碼Asymmetric encryption(公開金鑰 Public-key cryptography)`
-  - 非對稱式密碼(公開金鑰)
-  - RSA 非對稱式密碼(公開金鑰)
-  - RSA 非對稱式密碼攻擊技法(有太多攻擊模式,底下針對比較好學部分)
-    - 延伸閱讀 [Twenty Years of Attacks on the RSA Cryptosystem](https://crypto.stanford.edu/~dabo/pubs/papers/RSA-survey.pdf) 
-    - SMALL N ATTACK(n太小 == >容易被質因數分解)
-    - Twin Primes attack
-    - Common Modulus Attacks
-    - Wiener's Attack
-    - Coppersmith's attack
-    - ..........
-- 現代密碼學之`對稱式密碼Symmetric encryption`(如果太深可以不講此部分)
-  - Block Ciphers VS  Stream Ciphers
-  - Padding:ECB(Electronic codebook)Mode|CBC(Cipher-block chaining)Mode|.... 
-  - 對稱式密碼攻擊技法
-    - Padding Oracle attack(CBC 位元反轉攻擊)| bit-flipping attack 
-    - Cut and paste attack
-- 現代密碼學之HASH
-  - HASH攻擊技法
-  - Collision attack
-  - 長度擴充攻擊 | Length Extension Attack (LEA)
-  - 使用Hashpump
+### 課程主題
+- 1.現代密碼學
+    - 柯克霍夫原則
+    - 基本觀念
+    - 串流加密 & 區塊加密
+    - ECB & CBC & CTR & Padding
+    - 金鑰
+      
+- 2.漏洞利用&工具使用
+    - 對稱式加密
+        - 分組密碼     
+            - AES
+                - byte-at-a-time
+                - CBC-Padding-Oracle
+                - CBC-IV-Detection
+        - 串流密碼
+            - LCG
+            - LFSR
+    - 非對稱式加密
+        - RSA
+            - 因式分解
+            - 低加密指數小明文
+            - 共模
+            - 廣播
+            - 低解密指數   
+    - 雜湊
+        - 彩虹表
+        - 生日攻擊
+        - 長度擴充攻擊
+- 3.實務分析
+    - 真實案例解析
+    - 漏洞利用實務    
 
-### 破密分析常用工具(Tools)(請講師自行修改)
-- Pwntools - Python’s Wonderful Networking Tool
-- cytro - A CTF cryptography solving tool
-- yafu - A factorization tool
-- libnum - Number theory
-- [sympy - A library for symbolic mathematics.](https://www.sympy.org/en/index.html)
-- gmpy2 - Multiple-precision arithmetic & number theory
-- Factordb - A large database of factor
-- SageMath / CoCalc - Computer algebra system
-- pyCrypto / cryptography - Crypto algorithms
+
+### 課程相關工具
+- [Python 3.11](https://www.python.org/downloads/release/python-3111/)
+- [Pwntools](http://docs.pwntools.com/en/stable/)
+- [PyCryptodome](https://pycryptodome.readthedocs.io/en/latest/)
+- [gmpy2](https://gmpy2.readthedocs.io/en/latest/)
+- [SageMath](https://doc.sagemath.org/html/en/)
+
