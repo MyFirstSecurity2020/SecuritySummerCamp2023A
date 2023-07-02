@@ -30,7 +30,11 @@
         - 作業: THY_WEB201_YC_BAC1 | Web_25
     - 關聯式資料查詢語法注入攻擊 Relational SQL Injection
       - Relational Server Query Language
+        - 課程示範解題: THY_WEB101_YC_SQLINJ1 | Web_06
+        - 作業: THY_WEB201_YC_SQLINJ1 | Web_26
       - Relational DataBase Management System
+        - 課程示範解題: THY_WEB101_YC_SQLINJ2 | Web_07
+        - 作業: THY_WEB201_YC_SQLINJ2 | Web_27
       - In-band SQLi
         - String
         - Numeric
