@@ -12,13 +12,22 @@
 - OWASP TOP 10:2021
   - 權限控制失效 Boken Access Control
     - IDOR
-        - 課程示範解題: THY_WEB101_CTF| web_5 
-        - 作業: THY_WEB201_CTF| web_11 
+        - 課程示範解題: THY_WEB101_YC_BAC1 | Web_01
+        - 作業: THY_WEB201_YC_BAC1 | Web_21
+    - GitHack
+        - 課程示範解題: THY_WEB101_YC_BAC2 | Web_02
+        - 作業: THY_WEB201_YC_BAC2 | Web_22
   - 注入式攻擊 Injection
     - 指令注入攻擊 Command Injection
       - Backend Introduction & Application
+        - 課程示範解題: THY_WEB101_YC_INJ1 | Web_03
+        - 作業: THY_WEB201_YC_BAC1 | Web_23
       - Linux Command
+        - 課程示範解題: THY_WEB101_YC_INJ2 | Web_04
+        - 作業: THY_WEB201_YC_BAC1 | Web_24
       - Windows Command
+        - 課程示範解題: THY_WEB101_YC_INJ3 | Web_05
+        - 作業: THY_WEB201_YC_BAC1 | Web_25
     - 關聯式資料查詢語法注入攻擊 Relational SQL Injection
       - Relational Server Query Language
       - Relational DataBase Management System
