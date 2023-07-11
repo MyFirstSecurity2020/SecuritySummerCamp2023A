@@ -40,13 +40,19 @@
       - Union-Based SQLi
       - Time-Based SQLi
     - 伺服端後端模板注入攻擊 Server Side Template Injection
+      - 後端介紹與基本語法 
       - Python Flask
       - Python Module Tricks
+    - Reverse Shell 搭建？
+      - 網路環境SETUP
+      - ngork 教學
+      - 生產 Reverse Shell
 
 - 難題神解(挑戰你的資安戰鬥力)
   - SSRF attack 
 
 ## web分析常用工具(Tools)
-  - curl
+  - Postman
   - burt suite
   - sqlmap
+  - Kali Linux
