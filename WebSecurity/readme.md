@@ -8,6 +8,12 @@
 ## 課程主題 語宸 
 - ### OWASP TOP 10:2021
   - #### 權限控制失效 Boken Access Control
+    - 水平越權
+      - Web_A0
+      - 作業: Web_B0
+    - 垂直越權
+      - Web_A1
+      - 作業: Web_B1
     - IDOR
         - 課程示範解題: THY_WEB101_YC_BAC1 | Web_01
         - 作業: THY_WEB201_YC_BAC1 | Web_21
