@@ -4,6 +4,10 @@
 - 適合完全沒有 網頁基礎、網站運作原理概念 的同學
   - 可以參加 SecurityFoscusOnline2023課程
   - 可以參照並自行學習 [MyFirstSecurity資安入門的第一堂課|網站安全初體驗](https://github.com/MyFirstSecurity2020/20230301)
+ 
+## 解題平台
+
+- ### [http://ctf-isip.tyc4d.tw/](http://ctf-isip.tyc4d.tw/)
 
 ## 課程主題 語宸 
 - ### CTF基礎概論
