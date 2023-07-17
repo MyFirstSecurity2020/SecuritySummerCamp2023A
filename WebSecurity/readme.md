@@ -6,6 +6,25 @@
   - 可以參照並自行學習 [MyFirstSecurity資安入門的第一堂課|網站安全初體驗](https://github.com/MyFirstSecurity2020/20230301)
 
 ## 課程主題 語宸 
+- ### CTF基礎概論
+- ### 基礎網頁概論
+  - 瀏覽器與伺服器傳輸
+  - HTTP協議介紹
+    - HTTP Request
+      - Header
+        - Method
+        - Protocol
+        - Path
+        - Addtional Header
+      - Body
+    - HTTP Resopnse
+      - Header
+        - Method
+        - Protocol
+        - Path
+        - Addtional Header
+      - Body
+  - 觀察
 - ### OWASP TOP 10:2021
   - #### 權限控制失效 Boken Access Control
     - 水平越權
