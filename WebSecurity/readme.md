@@ -54,6 +54,28 @@
         - 課程示範解題: THY_WEB101_YC_BAC2 | Web_02
         - 作業: THY_WEB201_YC_BAC2 | Web_22
   - #### 注入式攻擊 Injection
+    - 關聯式資料查詢語法注入攻擊 Relational SQL Injection
+      - Relational Server Query Language
+        - 課程示範解題: THY_WEB101_YC_SQLINJ1 | Web_06
+        - 作業: THY_WEB201_YC_SQLINJ1 | Web_26
+      - Relational DataBase Management System
+        - 課程示範解題: THY_WEB101_YC_SQLINJ2 | Web_07
+        - 作業: THY_WEB201_YC_SQLINJ2 | Web_27
+      - SQL Syntax 語法
+        - 陳述句
+        - 命令 CREATE、DROP、ALTER、SELECT、INSERT、UPDATE、DELETE
+        - 受詞
+        - 子句
+        - 運算子
+        - 函數
+        - 資料結構
+      - SQL 跟 Backend Application 的關係
+      - In-band SQLi
+        - Error-Based SQLi
+        - Union-Based SQLi
+      - Blind SQLi
+        - Boolean-Based SQLi
+        - Time-Based SQLi
     - 指令注入攻擊 Command Injection
       - Backend Introduction & Application
         - 課程示範解題: THY_WEB101_YC_INJ1 | Web_03
@@ -64,21 +86,7 @@
       - Windows Command
         - 課程示範解題: THY_WEB101_YC_INJ3 | Web_05
         - 作業: THY_WEB201_YC_BAC1 | Web_25
-    - 關聯式資料查詢語法注入攻擊 Relational SQL Injection
-      - Relational Server Query Language
-        - 課程示範解題: THY_WEB101_YC_SQLINJ1 | Web_06
-        - 作業: THY_WEB201_YC_SQLINJ1 | Web_26
-      - Relational DataBase Management System
-        - 課程示範解題: THY_WEB101_YC_SQLINJ2 | Web_07
-        - 作業: THY_WEB201_YC_SQLINJ2 | Web_27
-      - In-band SQLi
-        - String
-        - Numeric
-      - Error-Based SQLi
-      - Boolean-Based SQLi
-      - Union-Based SQLi
-      - Time-Based SQLi
-    - 伺服端後端模板注入攻擊 Server Side Template Injection
+    - 伺服端後端模板注入攻擊 Server Side Template Injection (進階課程)
       - 後端介紹與基本語法 
       - Python Flask
       - Python Module Tricks
@@ -86,9 +94,6 @@
       - 網路環境SETUP
       - ngork 教學
       - 生產 Reverse Shell
-
-- 難題神解(挑戰你的資安戰鬥力)
-  - SSRF attack 
 
 ## web分析常用工具(Tools)
   - Postman
