@@ -1,7 +1,7 @@
 
-## 課程說明(請講師自行修改)
-- 本課程將針對 網站應用程式(WEB APPLICATION) 進行安全測試分析
-- 對於完全沒有 網站應用程式|安全測試分析 的同學
+## 課程說明
+- 本課程將針對 網站傳輸協議做深度的介紹並且結合 OWASP Top 10 針對漏洞做介紹與攻擊
+- 適合完全沒有 網頁基礎、網站運作原理概念 的同學
   - 可以參加 SecurityFoscusOnline2023課程
   - 可以參照並自行學習 [MyFirstSecurity資安入門的第一堂課|網站安全初體驗](https://github.com/MyFirstSecurity2020/20230301)
 
@@ -24,15 +24,29 @@
         - Path
         - Addtional Header
       - Body
-  - 觀察
+  - 觀察網站與網頁
+  - 網站如何記住你是你，誰是誰 Cookie & Session
+    - 存在電腦 Cookie
+    - 怎麼保護 Cookie
+    - Session 與 Cookie 的差別
+- ### 工具介紹
+  - BurpSuite 工具介紹
+    - 功能 Proxy 介紹
+    - Proxy 工作原理
+    - 功能 Intercept 介紹 (攔截請求用)
+    - 功能 Repeater 介紹 (重複送出)
+    - 功能 Intruder 介紹 (自動攻擊)
+      - 封包欄位偵測
+      - 爆破攻擊
 - ### OWASP TOP 10:2021
+  - 介紹 OWASP 
   - #### 權限控制失效 Boken Access Control
     - 水平越權
-      - Web_A0
-      - 作業: Web_B0
+      - 
+      - 作業: 
     - 垂直越權
-      - Web_A1
-      - 作業: Web_B1
+      - 
+      - 作業: 
     - IDOR
         - 課程示範解題: THY_WEB101_YC_BAC1 | Web_01
         - 作業: THY_WEB201_YC_BAC1 | Web_21
