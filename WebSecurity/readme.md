@@ -100,3 +100,28 @@
   - burt suite
   - sqlmap
   - Kali Linux
+
+## 解題標準
+
+- * Find GET Method
+- * Find POST Method
+- * Find DELETE METHOD
+- * You can’t see me
+- * Find Cookies
+- * Website Under Development
+- * You can’t catch me
+- * Fix My Blog …
+- * Did something just showed ?
+- BruteForce Me
+- * Where is Edward
+- * Admin only pls
+- * HolyPay
+- EasyCatShop
+- * Welcome2SQL
+- * WHERE are you
+- * Welcome2Command
+- Infomation_Sc...?
+- Dump All Data!
+- SimplePHP
+- * Simple Flask
+- My Blog
