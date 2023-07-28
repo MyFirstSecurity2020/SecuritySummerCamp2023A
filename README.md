@@ -1,14 +1,14 @@
 # SecuritySummerCamp2023A
-## 課程內容說明範本
-- DEf CON [DEf CON training](https://training.defcon.org/products/web-hacking-bootcamp-orange-cyberdefense)
-- HITCON TRAINING [台灣駭客年會 HITCON Training 2023](https://hitcon.kktix.cc/events/hitcon-training-2023)
-- 恆逸 [EC-Council CEH駭客技術專家認證課程](https://www.uuu.com.tw/Course/Show/300/EC-Council-CEH-7-%E9%A7%AD%E5%AE%A2%E6%8A%80%E8%A1%93%E5%B0%88%E5%AE%B6%E8%AA%8D%E8%AD%89%E8%AA%B2%E7%A8%8B)
+
 ## 課程時間
-| 地點 | 7/18(二) | 7/19(三) | 7/21(五) | 
-| ----- | ----- | ----- | ----- |
-| 恆逸教室 | 周佑康/網頁安全(web) | 袁律恆/密碼(Crypto) | 線上Q&A |
-| 臺中高工 | 蔡語宸/網頁安全(web) | 周佑康/密碼(Crypto) | 線上Q&A | 
-| 臺南一中 | 袁律恆/密碼(Crypto) | 蔡語宸/網頁安全(web) | 線上Q&A |  
+
+| 地點 | 7/18(二) | 7/19(三) |  
+| ----- | ----- | ----- | 
+| 恆逸教室 | 周佑康/網頁安全(web) | 袁律恆/密碼(Crypto) | 
+| 臺中高工 | 蔡語宸/網頁安全(web) | 周佑康/密碼(Crypto) | 
+| 臺南一中 | 袁律恆/密碼(Crypto) | 蔡語宸/網頁安全(web) | 
+
+  - 線上Q&A時間急會議連結另行mail寄出
 
 ## 各區上課地點:
   - 台北 恆逸教室 
@@ -17,14 +17,19 @@
 
 ## 證書發放標準
 - 須完成問卷調查才會頒發課程證書
-- 完成解題數：Lab解題X題+推薦解題Y題+總解題Z題以上者==> 頒發`課程結業證書`
+- 完成講師指定解題數`==> 頒發課程結業證書`
 - 完成所有解題數者頒發`==> 課程結業傑出證書`
 
 ## 證書發送行政作業(計畫辦公室負責)
-- 如對證書發送有任何異議者請於7月X日中午12點前提出，逾時不侯，謝謝。
-- 證書於7月Y日前郵寄掛號寄出。
+- 如對證書發送有任何異議者請於8月11日中午12點前提出，逾時不侯，謝謝。
+- 證書於8月4日前郵寄掛號寄出。
 
 ## 填寫問卷
 - 7/21請同學們務必填寫課程問卷，以利後續證書寄送發放。
-- [CyberSecurity Summer Camp 202A 資訊安全暑訓營：WEBSecurity-問卷]()
-- [CyberSecurity Summer Camp 2022 資訊安全暑訓營：Crypto-問卷]()
+- [CyberSecurity Summer Camp2023資訊安全暑訓營-中區-DAY1- 網頁安全 -問卷](https://docs.google.com/forms/d/e/1FAIpQLSdl947cx-gfHyhPKTXkq2sLKYTRhz5udw7qw_MLUioUuwuIGg/viewform?usp=sf_link)
+- [CyberSecurity Summer Camp2023資訊安全暑訓營-中區-DAY2-密碼-問卷](https://docs.google.com/forms/d/e/1FAIpQLSeYnKoRf7MZq30e0ySafJVs_jk7hZ7xsSHwWgaiyynfzk-ytQ/viewform?usp=sf_link)
+- [CyberSecurity Summer Camp2023資訊安全暑訓營-北區-DAY1- 網頁安全 -問卷](https://docs.google.com/forms/d/e/1FAIpQLSfJtW5B-SMa8WAM0VWalHbeEIvWyWovzKSKaS8uzLtGyQqx5g/viewform?usp=sf_link)
+- [CyberSecurity Summer Camp2023資訊安全暑訓營-北區-DAY2-密碼-問卷](https://docs.google.com/forms/d/e/1FAIpQLSeYzexGeIx494G4NkOHxXqq3zIIBzaCwPisgRAB_rLcXi6kmg/viewform?usp=sf_link)
+- [CyberSecurity Summer Camp2023資訊安全暑訓營-南區-DAY1-密碼-問卷](https://docs.google.com/forms/d/e/1FAIpQLSedqMMZAX5sc9dci0ntaGSSRpmBZx0g7X1yvzuZgNiDsRoCgQ/viewform?usp=sf_link)
+- [CyberSecurity Summer Camp2023資訊安全暑訓營-南區-DAY2-網頁安全-問卷](https://docs.google.com/forms/d/e/1FAIpQLSc2G4EhngO1Nu6ejsM4-JnR4CNhWicWj14szjF4IF3_cogcBA/viewform?usp=sf_link)
+
