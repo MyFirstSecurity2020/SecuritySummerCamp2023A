@@ -46,25 +46,13 @@
   - 介紹 OWASP 
   - #### 權限控制失效 Boken Access Control
     - 水平越權
-      - 
-      - 作業: 
     - 垂直越權
-      - 
-      - 作業: 
     - IDOR
-        - 課程示範解題: THY_WEB101_YC_BAC1 | Web_01
-        - 作業: THY_WEB201_YC_BAC1 | Web_21
     - GitHack
-        - 課程示範解題: THY_WEB101_YC_BAC2 | Web_02
-        - 作業: THY_WEB201_YC_BAC2 | Web_22
   - #### 注入式攻擊 Injection
     - 關聯式資料查詢語法注入攻擊 Relational SQL Injection
       - Relational Server Query Language
-        - 課程示範解題: THY_WEB101_YC_SQLINJ1 | Web_06
-        - 作業: THY_WEB201_YC_SQLINJ1 | Web_26
       - Relational DataBase Management System
-        - 課程示範解題: THY_WEB101_YC_SQLINJ2 | Web_07
-        - 作業: THY_WEB201_YC_SQLINJ2 | Web_27
       - SQL Syntax 語法
         - 陳述句
         - 命令 CREATE、DROP、ALTER、SELECT、INSERT、UPDATE、DELETE
@@ -82,14 +70,8 @@
         - Time-Based SQLi
     - 指令注入攻擊 Command Injection
       - Backend Introduction & Application
-        - 課程示範解題: THY_WEB101_YC_INJ1 | Web_03
-        - 作業: THY_WEB201_YC_BAC1 | Web_23
       - Linux Command
-        - 課程示範解題: THY_WEB101_YC_INJ2 | Web_04
-        - 作業: THY_WEB201_YC_BAC1 | Web_24
       - Windows Command
-        - 課程示範解題: THY_WEB101_YC_INJ3 | Web_05
-        - 作業: THY_WEB201_YC_BAC1 | Web_25
     - 伺服端後端模板注入攻擊 Server Side Template Injection (進階課程)
       - 後端介紹與基本語法 
       - Python Flask
@@ -110,22 +92,17 @@
 - * Find GET Method
 - * Find POST Method
 - * Find DELETE METHOD
-- * You can’t see me
+- * Mystery Header
 - * Find Cookies
-- * Website Under Development
-- * You can’t catch me
+- * Website Under Development & Leak Cookie
+- * May I have free point ?
+- * Free Point For me ?
 - * Fix My Blog …
-- * Did something just showed ?
-- BruteForce Me
+- * You can't see me
 - * Where is Edward
-- * Admin only pls
-- * HolyPay
-- EasyCatShop
 - * Welcome2SQL
-- * WHERE are you
-- * Welcome2Command
+- WHERE are you
 - Infomation_Sc...?
 - Dump All Data!
-- SimplePHP
-- * Simple Flask
-- My Blog
+- * Let the cow Moooooooooow
+- Real-World
